@@ -15,7 +15,7 @@ We also used `Visual Studio Code` to create Python applications to share the res
 
 ## Results
 
-When we pulled the data, we first looked at the the precipitation for a one year timeframe. We reviewed the activity from August 23, 2016 - August 23, 2017. The average was 18% based on 2,021 observations. This tells us that throughout the year, Oahu was mostly sunny throughout the day and experienced low rainfall. 
+When we pulled the data, we first looked at the the precipitation for a one year timeframe. We reviewed the activity from August 23, 2016 - August 23, 2017. The average was 18% based on 2,021 observations. This tells us that throughout the year, Honolulu was mostly sunny throughout the day and experienced low rainfall. 
 
 ![precipstats](https://github.com/lintubaby5/sqlalchemy-challenge/blob/main/SurfsUp/Images/precipitation_stats.png) 
 ![precipgraph](https://github.com/lintubaby5/sqlalchemy-challenge/blob/main/SurfsUp/Images/precipitation_analysis.png)
