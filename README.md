@@ -5,7 +5,7 @@ Weather analysis using SQLite and SQLAlchemy. Climate App building using Flask. 
 
 ## Overview of Surfs Up Analysis
 
-The purpose of this analysis is to review a dataset pertaining to weather conditions that has been stored in a [SQLite database] to do a climate analysis about Honolulu,Hawaii to help with a trip planning. 
+The purpose of this analysis is to review a dataset pertaining to weather conditions that has been stored in a SQLite database to do a climate analysis about Honolulu,Hawaii to help with a trip planning. 
 
 In order to explore the data in the `SQLite` database, we used `SQLAlchemy` to connect and generate queries to pull the necessary information needed for our analysis. Throughout this module, we used `Jupiter notebook` to import dependencies and create the commands to pull the data from the `SQLite` database.
 
@@ -26,5 +26,5 @@ We also looked at the number of weather stations that were actively collecting p
 
 ## Summary
 
-In summary, the temperature in Oahu is relatively the same throughout the year and the chances of continuous rainfall is low. 
+In summary, the temperature in Honolulu is relatively the same throughout the year and the chances of continuous rainfall is low. 
 
