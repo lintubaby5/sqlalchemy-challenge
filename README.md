@@ -11,18 +11,18 @@ In order to explore the data in the `SQLite` database, we used `SQLAlchemy` to c
 
 We also used `Visual Studio Code` to create Python applications to share the results via a webpage by creating `Flask` routes and using Terminal to run the `Flask` app. When running the `Flask` app in `Terminal`, it generated the `Flask` routes in a web address `http://127.0.0.1:5000` that could be shared.
 
-![web](https://github.com/amylio/Surfs_up/blob/main/MOD9_Challenge_Submission/Images/FlaskWebpage.png)
+![web](https://github.com/lintubaby5/sqlalchemy-challenge/blob/main/SurfsUp/Images/webpage.png)
 
 ## Results
 
 When we pulled the data, we first looked at the the precipitation for a one year timeframe. We reviewed the activity from August 23, 2016 - August 23, 2017. The average was 18% based on 2,021 observations. This tells us that throughout the year, Oahu was mostly sunny throughout the day and experienced low rainfall. 
 
-![precipstats](https://github.com/amylio/Surfs_up/blob/main/MOD9_Challenge_Submission/Images/PrecipStats.png) 
-![precipgraph](https://github.com/amylio/Surfs_up/blob/main/MOD9_Challenge_Submission/Images/PrecipGraph.png)
+![precipstats](https://github.com/lintubaby5/sqlalchemy-challenge/blob/main/SurfsUp/Images/precipitation_stats.png) 
+![precipgraph](https://github.com/lintubaby5/sqlalchemy-challenge/blob/main/SurfsUp/Images/precipitation_analysis.png)
 
 We also looked at the number of weather stations that were actively collecting precipitation data and focus on one station that had the most observations recorded. In total, there were (9) stations with `USC00519281` showing the highest amount of observations at 2,772 entries. We used the information from this station to review the temperature for the same time period. The results showed that the average temperature throughout the year was **72°F** with a low of **54°F** and a high of **85°F**. 
 
-![tempgraph](https://github.com/amylio/Surfs_up/blob/main/MOD9_Challenge_Submission/Images/tempgraph.png)
+![tempgraph](https://github.com/lintubaby5/sqlalchemy-challenge/blob/main/SurfsUp/Images/temp_graph.png)
 
 ## Summary
 
